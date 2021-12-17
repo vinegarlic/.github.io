@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hongweiyu.org/</id>
     <title>Data</title>
-    <updated>2021-12-16T16:45:23.253Z</updated>
+    <updated>2021-12-17T17:40:34.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hongweiyu.org/"/>
     <link rel="self" href="https://hongweiyu.org/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Vinegarlic</subtitle>
     <logo>https://hongweiyu.org/images/avatar.png</logo>
     <icon>https://hongweiyu.org/favicon.ico</icon>
     <rights>All rights reserved 2021, Data</rights>
@@ -15,12 +15,12 @@
         <id>https://hongweiyu.org/post/hello/</id>
         <link href="https://hongweiyu.org/post/hello/">
         </link>
-        <updated>2021-12-16T09:44:23.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用来到我的blog！<br>
-...</p>
+        <updated>2021-12-16T02:44:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  Welcome to my blog！<br>
+I am Hongwei Yu. Currently, I am a PhD canditate in Wageningen University &amp; Research.  My topic is about using NIR to charaterise the quality traits of peanut and peanut butter. During the whole PhD journal, advanced spectrospetic techniques such as NIR (benchtop and portable) and new algorithm(machine learning and chemometrics) based on  R and Python would be considered.  I am really intested in food quality and data anlaysis.  Therefore, this blog is to share my experineces and ideas about data science including data cleaning, data mining, modelling and visulization. Hopefully, you have a great time here.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用来到我的blog！<br>
-...</p>
+        <content type="html"><![CDATA[<p>👏  Welcome to my blog！<br>
+I am Hongwei Yu. Currently, I am a PhD canditate in Wageningen University &amp; Research.  My topic is about using NIR to charaterise the quality traits of peanut and peanut butter. During the whole PhD journal, advanced spectrospetic techniques such as NIR (benchtop and portable) and new algorithm(machine learning and chemometrics) based on  R and Python would be considered.  I am really intested in food quality and data anlaysis.  Therefore, this blog is to share my experineces and ideas about data science including data cleaning, data mining, modelling and visulization. Hopefully, you have a great time here.</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
